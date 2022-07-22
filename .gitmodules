@@ -1,0 +1,3 @@
+[submodule "stk-dev-java"]
+	path = stk-dev-java
+	url = git@githubzup.com:gustavopintozup/stk-dev-java.git
